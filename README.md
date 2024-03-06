@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=Waio&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/Waio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=255-Project&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/255-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=opengl_glut_projects&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/opengl_glut_projects)
+
 -->
 
 ![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=nefeygt&theme=tokyonight&show_icons=true&rank_icon=percentile&include_all_commits=true)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bariscihanoglu&repo=BOA-Gamejam&theme=tokyonight&show_owner=true)](https://github.com/bariscihanoglu/BOA-Gamejam)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=Waio&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/Waio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=255-Project&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/255-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=opengl_glut_projects&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/opengl_glut_projects)
