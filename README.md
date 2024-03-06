@@ -1,10 +1,8 @@
 ### Hi there 👋
-![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=nefeygt&theme=tokyonight&show_icons=true&rank_icon=percentile&include_all_commits=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bariscihanoglu&repo=BOA-Gamejam&theme=tokyonight&show_owner=true)](https://github.com/bariscihanoglu/BOA-Gamejam)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=Waio&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/Waio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=255-Project&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/255-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=opengl_glut_projects&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/opengl_glut_projects)
 
+🔭 I’m currently working on <i>Waio</i> a 2D platformer game made with Unity.
+🌱 I’m currently learning game development using Unity, Unreal Engine, C# and C++.
+📫 You can reach me from <a href="n.efeyigit@outlook.com>here</a>
 <!--
 **nefeygt/nefeygt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=nefeygt&theme=tokyonight&show_icons=true&rank_icon=percentile&include_all_commits=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bariscihanoglu&repo=BOA-Gamejam&theme=tokyonight&show_owner=true)](https://github.com/bariscihanoglu/BOA-Gamejam)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=Waio&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/Waio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=255-Project&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/255-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=opengl_glut_projects&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/opengl_glut_projects)
