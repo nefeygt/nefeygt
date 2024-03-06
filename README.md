@@ -2,12 +2,12 @@
 
 🔭 I’m currently working on <i>Waio</i> a 2D platformer game made with Unity. <br>
 🌱 I’m currently learning game development using Unity, Unreal Engine, C# and C++. <br>
-📫 You can reach me <a href="mailto=n.efeyigit@outlook.com">here</a>
+📫 You can reach me [here](mailto:n.efeyigit@outlook.com)
 <!--
 **nefeygt/nefeygt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<a href="mailto=n.efeyigit@outlook.com">here</a>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
