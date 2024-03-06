@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=nefeygt&theme=tokyonight&show_icons=true&rank_icon=percentile&include_all_commits=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=unity_first_game)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nefeygt/nefeygt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
