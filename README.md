@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bariscihanoglu&repo=BOA-Gamejam&theme=tokyonight&show_owner=true)](https://github.com/bariscihanoglu/BOA-Gamejam)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=waio&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/waio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=255-Project&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/255-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=to-do-list-project&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/to-do-list-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=opengl_glut_games&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/opengl_glut_games)
 
 ![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=nefeygt&theme=tokyonight&show_icons=true&rank_icon=percentile&include_all_commits=true)
