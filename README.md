@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=Waio&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/Waio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=255-Project&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/255-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=opengl_glut_projects&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/opengl_glut_projects)
+
+![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=nefeygt&theme=tokyonight&show_icons=true&rank_icon=percentile&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nefeygt&theme=tokyonight&layout=donut)
 -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=waio&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/waio)
@@ -27,8 +30,6 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=opengl_glut_games&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/opengl_glut_games)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=to-do-list-project&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/to-do-list-project)
 
-![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=nefeygt&theme=tokyonight&show_icons=true&rank_icon=percentile&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nefeygt&theme=tokyonight&layout=donut)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nefeygt&theme=tokyonight" />
 </a>
