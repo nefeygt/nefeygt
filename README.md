@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=to-do-list-project&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/to-do-list-project)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nefeygt&theme=tokyonight&rank_icon=percentileinclude_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nefeygt&theme=tokyonight&rank_icon=percentile&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nefeygt&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
