@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=to-do-list-project&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/to-do-list-project)
 
 ![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=nefeygt&theme=tokyonight&show_icons=true&rank_icon=percentile&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nefeygt&layout=donut)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nefeygt&theme=tokyonight&layout=compact)]
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
