@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on <i>Waio</i> a 2D platformer game made with Unity. \n
-🌱 I’m currently learning game development using Unity, Unreal Engine, C# and C++.
-📫 You can reach me from <a href="n.efeyigit@outlook.com>here
+🔭 I’m currently working on <i>Waio</i> a 2D platformer game made with Unity. <br>
+🌱 I’m currently learning game development using Unity, Unreal Engine, C# and C++. <br>
+📫 You can reach me <a href="n.efeyigit@outlook.com">here</a>
 <!--
 **nefeygt/nefeygt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
