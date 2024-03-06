@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on <i>Waio</i> a 2D platformer game made with Unity.
+🔭 I’m currently working on <i>Waio</i> a 2D platformer game made with Unity. \n
 🌱 I’m currently learning game development using Unity, Unreal Engine, C# and C++.
 📫 You can reach me from <a href="n.efeyigit@outlook.com>here
 <!--
