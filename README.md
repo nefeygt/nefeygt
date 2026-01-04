@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nefeygt&theme=tokyonight&layout=donut)
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=waio&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/waio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bariscihanoglu&repo=BOA-Gamejam&theme=tokyonight&show_owner=true)](https://github.com/bariscihanoglu/BOA-Gamejam)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=opengl_glut_games&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/opengl_glut_games)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=to-do-list-project&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/to-do-list-project)
+[![Readme Card](https://github-readme-stats-gybcuy393-nazim-efe-yigits-projects.vercel.app/api/pin/?username=nefeygt&repo=waio&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/waio)
+[![Readme Card](https://github-readme-stats-gybcuy393-nazim-efe-yigits-projects.vercel.app/api/pin/?username=bariscihanoglu&repo=BOA-Gamejam&theme=tokyonight&show_owner=true)](https://github.com/bariscihanoglu/BOA-Gamejam)
+[![Readme Card](https://github-readme-stats-gybcuy393-nazim-efe-yigits-projects.vercel.app/api/pin/?username=nefeygt&repo=opengl_glut_games&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/opengl_glut_games)
+[![Readme Card](https://github-readme-stats-gybcuy393-nazim-efe-yigits-projects.vercel.app/api/pin/?username=nefeygt&repo=to-do-list-project&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/to-do-list-project)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nefeygt&theme=tokyonight&rank_icon=percentile&include_all_commits=true" />
