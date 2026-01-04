@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 <!-- I’m currently working on <i>Waio</i>, a 2D platformer game made with Unity. <br> --> I’m currently interested in frontend web development. <br>
-🌱 I’m currently working on my JS/JQuery skills for web development. <br>
+🌱 I’m currently working on my React skills for web development. <br>
  <!-- 🌱 I’m currently learning game development using Unity, Unreal Engine, C# and C++. <br> -->
 📫 You can reach me [here](mailto:n.efeyigit@outlook.com)
 <!--
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bariscihanoglu&repo=BOA-Gamejam&theme=tokyonight&show_owner=true)](https://github.com/bariscihanoglu/BOA-Gamejam)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=opengl_glut_games&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/opengl_glut_games)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nefeygt&repo=to-do-list-project&theme=tokyonight&show_owner=true)](https://github.com/nefeygt/to-do-list-project)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nefeygt&show_icons=true&theme=tokyonight)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nefeygt&theme=tokyonight&rank_icon=percentile&include_all_commits=true" />
