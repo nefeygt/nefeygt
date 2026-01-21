@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 <!-- I’m currently working on <i>Waio</i>, a 2D platformer game made with Unity. <br> --> I’m currently interested in frontend web development. <br>
-🌱 I’m currently working on my React skills for web development. <br>
+🔭 I’m currently working on <i>Waio</i>, a 2D platformer game made with Unity. <br> <!-- I’m currently interested in frontend web development. <br> -->
+🌱 I’m currently working on my game development skills. <br>
  <!-- 🌱 I’m currently learning game development using Unity, Unreal Engine, C# and C++. <br> -->
 📫 You can reach me [here](mailto:n.efeyigit@outlook.com)
 <!--
